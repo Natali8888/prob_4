@@ -1,0 +1,8 @@
+Ivanov Petr 7
+Petrov Ivan 2
+Kozhevnikova Tatiana 5
+Burlakova Frosya 2
+Chemodanov Kirill 3
+Bakhmut Fedor 2
+Sidorenko Natalia 1
+

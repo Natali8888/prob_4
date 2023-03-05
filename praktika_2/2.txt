@@ -1,0 +1,18 @@
+Ranevskaya
+said:
+"The beauty
+-terrible
+strength"
+
+print(len(set(input().split()) & set(input().split())))
+
+
+print(len(set(set(input().split())^set(input().split()))))
+
+
+
+list_1 = []     # Первый список
+
+list_2 = []     # Второй список
+
+print(len(set(list_1).intersection(list_2)))
