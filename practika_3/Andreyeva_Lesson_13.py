@@ -1,6 +1,8 @@
 #1. Написать рекурсивную функцию, которая определяет, является ли строка
 # палиндромом (одинаково читается в обе стороны: герег, лол, мам, level и тд.)
 
+
+
 #def is_palindrome(stroka):
 #    if len(stroka) < 1:
 #        return True
@@ -51,5 +53,6 @@
 #    count += 1
 #def increment():
 #    counter()
+#increment()
 #increment()
 #print(count)
